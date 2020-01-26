@@ -1,0 +1,21 @@
+GitHub
+
+git remote add origin https://github.com/ingcharris/reactpixabay.git
+git push -u origin master
+
+https://github.com/ingcharris/reactpixabay.git
+
+
+git config --global user.email"ingcharris@gmail.com"
+git config --global user.name"ingcharris"
+
+git config --global user.email "ingcharris@gmail.com"
+git config --global user.name "ingcharris"
+
+*******************************************************************************
+REACT PIXABAY
+*******************************************************************************
+Proyecto: reactpixabay
+*******************************************************************************
+Deploy: https://focused-panini-a4913a.netlify.com/
+*******************************************************************************
